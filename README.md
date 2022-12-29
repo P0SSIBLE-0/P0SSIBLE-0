@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.arcanainfo.com/wp-content/uploads/2022/09/net-banner.jpg.webp" align="center" style="width: 100%" height ="380px" />
+<img src="https://www.arcanainfo.com/wp-content/uploads/2022/09/net-banner.jpg.webp" align="center" style="width: 100%" height ="300px" />
 </div>  
   
 
@@ -58,7 +58,7 @@
 
 
 
-### DevOps  
+### Others  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
