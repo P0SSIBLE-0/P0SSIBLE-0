@@ -67,7 +67,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://instagram.com/sumit15kumar" target="_blank">
+<a href="https://instagram.com/sumit16kumar" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/P0SSIBLE-0" target="_blank">
