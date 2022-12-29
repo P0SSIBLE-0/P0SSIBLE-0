@@ -1,13 +1,8 @@
-<div align="center">
-<img src="https://www.arcanainfo.com/wp-content/uploads/2022/09/net-banner.jpg.webp" align="center" style="width: 100%" height ="16%" />
-</div>  
-  
-
-### <div align="left">  I'm Sumit, a full-stack developer 👨‍💻</div>  
+### <div align="center">Hey👋I'm Sumit, a full-stack developer 👨‍💻</div>  
   
 
 <div align="right">
-<img src="https://miro.medium.com/max/786/1*ZSVmWGcc1weENb0ShawWxw.gif" align="right" height="" width="400px" />
+<img src="https://miro.medium.com/max/786/1*ZSVmWGcc1weENb0ShawWxw.gif" align="right" height="330px" width="400px" />
 </div>  
   
 
@@ -58,7 +53,7 @@
 
 
 
-### Others  
+### DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
